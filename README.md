@@ -28,17 +28,28 @@ ________________________________________
 •	**Source:** Credit risk dataset (CSV format)
 
 •	**Target Variable:** loan_status
-     o	0 → Non-default
-     o	1 → Default
+
+     •	0 → Non-default
+     
+     •	1 → Default
+
      
 •	**Features include:**
-     o	Applicant Income
-     o	Credit Score
-     o	Loan Amount
-     o	Loan Purpose
-     o	Employment Length
-     o	Interest Rate
-     o	Debt-to-Income Ratio
+
+     •	Applicant Income
+     
+     •	Credit Score
+     
+     •	Loan Amount
+     
+     •	Loan Purpose
+     
+     •	Employment Length
+     
+     •	Interest Rate
+     
+     •	Debt-to-Income Ratio
+
 ________________________________________
 
 **Exploratory Data Analysis (EDA)**
