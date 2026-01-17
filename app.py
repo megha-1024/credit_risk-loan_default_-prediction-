@@ -4,7 +4,8 @@ import numpy as np
 import joblib
 
 
-model = joblib.load("C:\\Users\\Megha\\OneDrive\\Desktop\\credit_risk2\\credit_risk_model.pkl")
+model = joblib.load("credit_risk_model.pkl")
+
 
 st.set_page_config(page_title="Credit Risk Prediction", layout="centered")
 
